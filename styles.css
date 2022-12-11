@@ -1,24 +1,24 @@
 div {
   height: 200px;
-  background-color: purple;
+  background-color: pink;
   border: 4px solid black;
 }
 
 <!---.blue {
-  background-color: blue;
+  background-color: navy;
   position: relative; 
 } -->
 
 <!---.bluechild {
   position: absolute;
-  background-color: green;
+  background-color: turquiose;
   width: 50px;
   height: 50px;
   bottom: 0;
 } -->
 
 .red {
-  background-color: red;
+  background-color: orange;
   position: fixed;
   top: 0;
   width: 100%;
